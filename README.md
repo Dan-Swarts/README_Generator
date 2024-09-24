@@ -8,80 +8,55 @@ Description
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Tests](#tests)
-- [Credits](#credits)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## Installation
 
-- step 1
 ```shell
-# Installation instructions 1
+# Clone Repository
+git clone https://github.com/Dan-Swarts/README_Generator.git
 
 ```
-- step 2
-```shell
-# Installation instructions 2
 
-```
-- step 3
 ```shell
-# Installation instructions 3
+# Download Dependencies
+npm init
 
 ```
 
 ## Usage
 
+```shell
+# Run the program
+node index.js
+```
+
 - Fill out the prompts, and recieve an auto-generated readme
 
 ![Add a screenshot](assets/imgs/hw1.PNG)
 
-- Automatically formats the installation guide
-
-![Add a screenshot](assets\imgs\edit1.png)
-
-- step 3
-
-![Add a screenshot](./relative/path/to/img.jpg?raw=true)
+```shell 
+# Find your README.md file in the examples folder
+cd example
+ls
+```
 
 ## Features
 
-- feature 1
+- Automatically formats the installation guide
 
-- feature 2
+<img src="assets\imgs\edit1.png" width="400"/>
 
-- feature 3
+- Automatically adds badges
 
-## Tests
+<img src="assets\imgs\edit2.png" width="700"/>
 
-- test 1
-```shell
-# How to run the first test
-
-```
-- undefined
-```shell
-# How to run the second test
-
-```
-- undefined
-```shell
-# How to run the third test
-
-```
 
 ## Questions
-If you have any questions about My Project, contact me at example@something.com. 
+If you have any questions about My Project, contact me at danstraws@gmail.com. 
 
-Check out my other projects at github.com.
-
-## Credits
-
-- [you](https://github.com)
-- [ me](https://github.com)
-- [ them](https://github.com)
-
+Check out my other projects at https://github.com/Dan-Swarts.
 
 ## Contributing
 
