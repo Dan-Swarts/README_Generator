@@ -1,8 +1,8 @@
-# My Project
-![MIT License](https://img.shields.io/badge/License-MIT-green) 
+# my project
+![MIT License](https://img.shields.io/badge/License-MIT-green) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
 ## Description
 
-Description
+description
 
 ## 📁 Table of Contents
 - [Installation](#installation)
@@ -15,17 +15,17 @@ Description
 
 ## Installation
 
-- step 1
+- one
 ```shell
 # Installation instructions 1
 
 ```
-- step 2
+- two
 ```shell
 # Installation instructions 2
 
 ```
-- step 3
+- the third one
 ```shell
 # Installation instructions 3
 
@@ -33,15 +33,15 @@ Description
 
 ## Usage
 
-- Fill out the prompts, and recieve an auto-generated readme
+- step 1
 
-![Add a screenshot](assets/imgs/hw1.PNG)
+![Add a screenshot](./relative/path/to/img.jpg?raw=true)
 
-- Automatically formats the installation guide
+- second step
 
-![Add a screenshot](assets\imgs\edit1.png)
+![Add a screenshot](./relative/path/to/img.jpg?raw=true)
 
-- step 3
+- third step
 
 ![Add a screenshot](./relative/path/to/img.jpg?raw=true)
 
@@ -51,7 +51,7 @@ Description
 
 - feature 2
 
-- feature 3
+- the third feature
 
 ## Tests
 
@@ -60,33 +60,33 @@ Description
 # How to run the first test
 
 ```
-- undefined
+- also test 2
 ```shell
 # How to run the second test
 
 ```
-- undefined
+- don't forget test 3~
 ```shell
 # How to run the third test
 
 ```
 
 ## Questions
-If you have any questions about My Project, contact me at example@something.com. 
+If you have any questions about my project, contact me at example@gmail.com. 
 
-Check out my other projects at github.com.
+Check out my other projects at github.org.
 
 ## Credits
 
-- [you](https://github.com)
-- [ me](https://github.com)
-- [ them](https://github.com)
+- [my](https://github.com)
+- [ myself](https://github.com)
+- [ I](https://github.com)
 
 
 ## Contributing
 
 > [!IMPORTANT]
-> Whether you have feedback on features, have encountered any bugs, or have suggestions for enhancements, we're eager to hear from you. Your insights help us make the My Project library more robust and user-friendly.
+> Whether you have feedback on features, have encountered any bugs, or have suggestions for enhancements, we're eager to hear from you. Your insights help us make the my project library more robust and user-friendly.
 
 Please feel free to contribute by [submitting an issue](https://github.com) or [joining the discussions](https://github.com). Each contribution helps us grow and improve.
 
